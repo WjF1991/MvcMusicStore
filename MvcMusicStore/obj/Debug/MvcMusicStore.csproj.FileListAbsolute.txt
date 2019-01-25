@@ -99,3 +99,5 @@ c:\Users\GW00117553\Documents\Visual Studio 2015\Projects\MvcMusicStore\MvcMusic
 c:\Users\GW00117553\Documents\Visual Studio 2015\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 c:\Users\GW00117553\Documents\Visual Studio 2015\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 c:\Users\GW00117553\Documents\Visual Studio 2015\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\GW00117553\Documents\Visual Studio 2015\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.CodeAnalysisLog.xml
+C:\Users\GW00117553\Documents\Visual Studio 2015\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll.lastcodeanalysissucceeded
